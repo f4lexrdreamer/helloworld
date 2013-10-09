@@ -16,5 +16,6 @@ using namespace std;
 int main(int argc, char** argv) {
 /*    printf("helloworld");*/
     cout << "Hello World" << endl;
+    cout << "Hello Git" << endl;
     return 0;
 }
