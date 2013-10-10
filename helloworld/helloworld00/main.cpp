@@ -19,5 +19,6 @@ int main(int argc, char** argv) {
     cout << "Hello Git" << endl;
     cout << "Hello New Brave World" << endl;
     cout << "Hello Jenkins" << endl;
+    cout << "Hello Git Plugin" << endl;
     return 0;
 }
