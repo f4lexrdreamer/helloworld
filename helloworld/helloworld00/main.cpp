@@ -20,5 +20,6 @@ int main(int argc, char** argv) {
     cout << "Hello New Brave World" << endl;
     cout << "Hello Jenkins" << endl;
     cout << "Hello Git Plugin" << endl;
+    cout << "Hello GitHub" << endl;
     return 0;
 }
