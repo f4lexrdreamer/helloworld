@@ -22,5 +22,6 @@ int main(int argc, char** argv) {
     cout << "Hello Git Plugin" << endl;
     cout << "Hello GitHub" << endl;
     cout << "Hello Git Hook" << endl;
+    cout << "Hello New Try" << endl;
     return 0;
 }
