@@ -23,5 +23,6 @@ int main(int argc, char** argv) {
     cout << "Hello GitHub" << endl;
     cout << "Hello Git Hook" << endl;
     cout << "Hello New Try" << endl;
+    cout << "Hello Xubuntu" << endl;
     return 0;
 }
